@@ -4,6 +4,7 @@ node_modules/
 *.log
 *.bak
 *.swp
+.idea/**
 
 /packages/core-js/LICENSE
 /packages/core-js-builder/LICENSE
