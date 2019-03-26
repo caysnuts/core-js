@@ -4,6 +4,7 @@ node_modules/
 *.log
 *.bak
 *.swp
+.idea/**
 
 Thumbs.db
 
